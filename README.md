@@ -15,7 +15,7 @@ A public web page with six sections:
 |---|---|
 | Home | Maria Clara Espinosa Arteaga, Student|
 | About | I am a student of web programming because i want to learn about technology and program of websites I use my computer to study but The degree program is challenging. |
-| Skills | Your technical and professional skills |
+| Skills | Tech professional skilled in web development using HTML5 and JavaScript, alongside database management in MySQL. Combines strong logical thinking with high adaptability to evolving technologies and a collaborative approach to teamwork. |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
 | Contact | How people can reach you |
